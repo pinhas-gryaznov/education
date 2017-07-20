@@ -1,0 +1,80 @@
+body{
+	width: 1298px;
+	margin: auto;
+	margin-top: 0;
+	height: 1038px;
+}
+.logotype{
+	display: block;
+	background: #8c8585;
+	float: left;
+	color: white;
+	outline: 2px solid #000; /* Чёрная рамка */
+    /*border: 3px solid #fff;   Бела рамка */
+    margin-left: 2px; 
+    margin-top: 2px; 
+}
+header{
+	display: block;
+	height: 80px;
+	background: #c1c1c1;
+	outline: 2px solid #000;
+	margin-top:2px;
+}
+h1{
+	position: center;
+	text-align: justify;
+}
+header h1{
+	margin: 0;
+	padding-top: 0; 
+}
+main{
+	outline: 2px solid #000;
+	width: 1298px;
+	height: 80px;
+	background: #c1c1c1;
+}
+article{
+	margin-top: 50px;
+	width: 640px;
+	height: 750px;
+	float: left;
+	outline: 2px solid #000;
+	background: #c1c1c1;
+}
+.INSIDE_COLUMN_LEFT{
+	outline: 2px solid #000;
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin: 50px 50px 50px 50px;
+	background: #fff;
+}
+.INSIDE_COLUMN_RIGHT{
+	outline: 2px solid #000;
+	float: right;
+	width: 150px;
+	height: 150px;
+	margin: 50px 50px 50px 50px;
+	background: #fff;
+}
+aside{
+	margin-top: 50px; 
+	width: 640px;
+	height: 750px;
+	float: right;
+	outline: 2px solid #000;
+	background: #c1c1c1;
+}
+footer{
+	outline: 2px solid #000;
+	width: 1298px;
+    height: 80px;
+    margin-top: 850px;
+    background: #c1c1c1; 
+}
+footer p{
+	margin: auto;
+	background: #c1c1c1;
+}
