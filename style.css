@@ -3,12 +3,8 @@
 	padding:0;
 }
 body{
-	/*background: #c1c1c1;*/
 	width: 1211px;
 	height: 1050px;
-	/*border: 5px solid #000;*/
-	/*margin-left: 43px;
-    margin-top: 22px;*/
     margin: auto;
     padding-top: 50px;
 }
@@ -20,18 +16,22 @@ header{
 header h1{
 	margin-left: 230px;
     margin-top: 40px;
+    text-transform: uppercase;
 }
-#logo{
+.logo{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	float: left;
 	margin-top: -100px;
     margin-left: -27px;
     background: #fff;
+    outline: 5px solid #fff;
+	float: left;
 }
 main{
 	width: 936px;
 	height: 621px;
-	/*border: 5px solid #000;*/
-	/*background: #c1c1c1;*/
 	margin-top: 61px;
 	margin-left: 112px;
 }
@@ -68,7 +68,6 @@ h3{
 	float: left;
 	margin-top: 18px;
     margin-left: 15px;
-    /*border: 1px solid #000;*/
 }
 .right{
 	width: 417px;
@@ -82,7 +81,6 @@ h3{
 	float: right;
 	margin-right: 33px;
     margin-top: 20px;
-	/*border: 1px solid #000;*/
 }
 .pagination_left{
 	float: left;
@@ -104,51 +102,82 @@ footer{
 	border: 5px solid #000;
 	margin-top: 41px;
 }
-.square{
+.I{
 	width: 121px;
 	height: 109px;
 	border: 5px solid #000;
 }
-#I{
-}
-#II{    
+.II{   
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-left: 2px;
     margin-top: 13px;
 
 }
-#III{   
+.III{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 14px;
     margin-left: 6px;
 
 }
-#IV{
+.IV{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 }
-#V{
+.V{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 11px;
     margin-left: -4px;
 }
-#VI{    
+.VI{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin: 8px;
     margin-top: 12px;
 }
-#VII{
+.VII{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 }
-#VIII{
+.VIII{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 20px;
     margin-left: 2px;
 }
-#IX{
+.IX{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 11px;
     margin-left: 3px;
 }
-#X{
+.X{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 }
-#XI{ 
+.XI{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 15px;
     margin-left: -11px;
 
 }
-#XII{ 
+.XII{
+	width: 121px;
+	height: 109px;
+	border: 5px solid #000;
 	margin-top: 15px;
     margin-left: -11px;
 }
